@@ -9,6 +9,7 @@
 <html>
 <head>
     <title>Title</title>
+    <p>text</p>
 </head>
 <body>
 this is action
