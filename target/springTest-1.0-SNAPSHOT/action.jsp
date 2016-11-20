@@ -16,8 +16,12 @@
     <a style="font-size: 150%;color: #43a1f1;padding:10px" href="http://localhost:8080/">home</a>
 
 </head>
+<<<<<<< HEAD
 
 <body style="background-color: green; width: 970px;margin:0 auto";>
+>>>>>>> new_style
+=======
+<body style="background-color: green">
 >>>>>>> new_style
 this is action
 git test

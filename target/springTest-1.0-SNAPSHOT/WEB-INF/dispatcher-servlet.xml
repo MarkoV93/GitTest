@@ -10,8 +10,13 @@
 
 
     <context:component-scan base-package="com.simpleweb.intelj"/>
+<<<<<<< HEAD
 
     <mvc:resources location="/WEB-INF/resources/" mapping="/resource/**" />
+=======
+    <mvc:resources location="WEB-INF/resources" mapping="/resource/**" />
+
+>>>>>>> new_style
 
 
     <bean id="viewResolver"

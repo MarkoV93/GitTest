@@ -17,8 +17,9 @@
 
 </head>
 
+
 <body style="background-color: green; width: 970px;margin:0 auto";>
->>>>>>> new_style
+
 this is action
 git test
 </body>
