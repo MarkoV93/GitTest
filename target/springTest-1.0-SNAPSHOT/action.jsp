@@ -9,8 +9,12 @@
 <html>
 <head>
     <title>Title</title>
+    <p>text</p>
+    <a style="font-size: 150%;color: #43a1f1;padding:10px" href="http://localhost:8080/">home</a>
+
 </head>
-<body>
+<body style="background-color: red">
 this is action
+git test
 </body>
 </html>
