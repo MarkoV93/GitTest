@@ -8,12 +8,14 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
+    <link rel="stylesheet" href='<c:url value="/resource/css/shop-homepage.css" />' type="text/css" media="screen" />
+
     <title>Title</title>
     <p>text</p>
     <a style="font-size: 150%;color: #43a1f1;padding:10px" href="http://localhost:8080/">home</a>
 
 </head>
-<body>
+<body style="background-color: green">
 this is action
 git test
 </body>
