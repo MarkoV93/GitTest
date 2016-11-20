@@ -13,7 +13,7 @@
     <a style="font-size: 150%;color: #43a1f1;padding:10px" href="http://localhost:8080/">home</a>
 
 </head>
-<body style="background-color: red">
+<body style="background-color: red; width: 970px;margin:0 auto">
 this is action
 git test
 </body>
